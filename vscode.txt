@@ -1,0 +1,11 @@
+// Change terminal color
+
+1. Click ctrl+shift+P and then search and Open User Setting (JSON)
+
+2. Paste the JSON settings below to change basic colors
+
+"workbench.colorCustomizations": {
+   "terminal.background": "#2C3E50",
+   "terminal.foreground": "#E0E0E0",
+ }
+For a higher level of colour customizations, you can use this Terminal Colors Generator. It will create JSON with all colours you selected and just paste it into your settings JSON.
